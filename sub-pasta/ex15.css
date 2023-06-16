@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    height:100%;
+    width: 100%;
+    background-color: #09042A;
+}
+
+.familia{
+    height: 500px;
+    width: 1000px;
+}
+
+.circuloPai1{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: #7B3F61;
+    margin: 190px 488px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.circuloFilho1{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: #09042A;
+    margin: 0px 150px;
+    border-radius: 50%;
+}
+
+.circuloPai2{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: #E78481;
+    margin: 190px 638px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.circuloFilho2{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: #09042A;
+    margin: 0px -150px;
+    border-radius: 50%;
+    
+}

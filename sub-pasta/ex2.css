@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    position: absolute;
+    height: 577px;
+    width: 1280px;
+    background-color: #62374e;
+}
+.divA{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: #fdc57b;
+    margin: 80px 80px;
+}
+.divB{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color:#fdc57b;
+    margin: 400px 80px;
+}
+.divC{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: #fdc57b;
+    margin: 80px 1000px;
+}
+.divD{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: #fdc57b;
+    margin: 400px 1000px;
+}
