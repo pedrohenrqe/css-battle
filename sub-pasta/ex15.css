@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+/* Colocar cor de fundo */
 div{
     height:100%;
     width: 100%;
@@ -14,6 +15,7 @@ div{
     width: 1000px;
 }
 
+/* Colocar cor do circulo e ajusta em algum lugar */
 .circuloPai1{
     position: absolute;
     height: 200px;
@@ -24,6 +26,7 @@ div{
     overflow: hidden;
 }
 
+/* Circulo que faz a sombra */
 .circuloFilho1{
     position: absolute;
     height: 200px;
@@ -33,6 +36,7 @@ div{
     border-radius: 50%;
 }
 
+/* Colocar cor do circulo e deixar ajustado na tela */
 .circuloPai2{
     position: absolute;
     height: 200px;
